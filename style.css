@@ -59,12 +59,17 @@ body {
   margin-left: 15px;
   flex-basis: 50%;
 }
-.container__main-right-img {
-  height: 100%;
-  background-image: url("./img/img.png");
-  background-repeat: no-repeat;
-  background-size: auto 100%;
-  background-position: center;
-  -o-object-fit: cover;
-     object-fit: cover;
+.container__main-right-t {
+  font-size: 3rem;
+}
+.container__main-right-c {
+  font-size: 1.5rem;
+}
+.container__main-right-btn {
+  padding: 20px 40px;
+  border-radius: 50px;
+  border: none;
+  color: white;
+  background-color: rgb(46, 46, 152);
+  font-size: 2rem;
 }/*# sourceMappingURL=style.css.map */
